@@ -1,0 +1,16 @@
+.button-container {
+  list-style-type: none;
+}
+
+.button-style {
+  min-width: 120px;
+  min-height: 40px;
+  border-radius: 8px;
+  border: solid 1px #d4d2db;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: #382f5a;
+  color: #d4d2db;
+  font-weight: bold;
+  font-size: 20px;
+}
